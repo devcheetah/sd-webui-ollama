@@ -1,5 +1,5 @@
 
-![[UI.png]]
+![UI Image](https://raw.githubusercontent.com/devcheetah/sd-webui-ollama/refs/heads/main/UI.png)
 
 Ollama extension assumes you already know how to run Ollama locally or know the URL for an instance of Ollama.  It assumes you have already pulled models.
 
